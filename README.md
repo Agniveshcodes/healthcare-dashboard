@@ -1,12 +1,19 @@
-# React + Vite
+# Healthcare Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a static frontend implementation of a healthcare dashboard. It was created as part of a web development assignment and built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 📸 Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Dashboard Screenshot](./screenshot.png)
 
-## Expanding the ESLint configuration
+## 🔧 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **Tailwind CSS**
+- **Lucide Icons**
+- **JavaScript (ES6+)**
+
+## 📁 Project Structure
+
+Agnivesh Pratap Singh
+https://github.com/Agniveshcodes
